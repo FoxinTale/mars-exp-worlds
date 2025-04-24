@@ -1,0 +1,9 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[marsxplr:mmap:1;camo:0;wvis:4000;lsrh:0;lspd:80;lgvt:0;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to the Gaia Space Station! Good luck training. Created by totoro, exported by Gub.]
+[floor:0]
+[nofloor:1]
+
+{Base;-171.086,2.25,-154.502;0;1}

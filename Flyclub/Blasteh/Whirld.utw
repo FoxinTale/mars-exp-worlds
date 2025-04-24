@@ -1,0 +1,6 @@
+[ss]
+[floor:0]
+[nofloor:1]
+
+{JumpPoint;0,-70.636,0;0;15.828,15.828,15.828;JumpTime:0;JumpRandMin:999999999;JumpRandMax:999999999}
+{Base;0.563,-169.03,332.898;0;1}

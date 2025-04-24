@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndFogColor:0.02307062,0,0.09411765]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.2784314,0.1211995,0.1211995,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Floor;0,-110,0;0;1;Texture:#4530}
+{Sea;0;0;1;Mode:Lava}
+{Base;-580,234,633.5;0,90,0;1}

@@ -1,0 +1,11 @@
+[marsxplr:lasr:1;lsrh:0;lsro:0;mmap:1;cam:0;rorb:0;xspd:0;xagt:0;xbnc:0.5;grave:9.81;wives:5000;flog:0.005;last:30.29492;lisped:180;lgvt:0;loco:0;bonfire:1;botdrive:1;bugged:1;bugflsl:0;bugflpw:0;bugged:1;bugspn:1;bugfldr:300;bugflag:1;bugcg:-0.7;bugpow:1.5;bugspd:10.64516;bugtr:1.551613;bugsl:50;bugsh:70;bugfp:2;bugll:0;tnken:1;tnkpow:2000;tnkgrp:0.1;tnkspd:25;tnkcg:-0.2;tnkfp:3;tnkll:0;hvren:0;hvrhe:15;hvrhv:100;hvrrp:2.5;hvrth:220;hvrfp:2;hvrll:0;jeten:0;jethd:0.01;jetd:0.001;jets:20;jetl:0.5;jetss:20;jetfp:2;jetll:0.5;netph:0;netin:0;][message:Welcome! Please remember that the point of this world is to HIKE so no jets, or hovercrafts. You have been placed on the trail, simply follow it up to the top! After that the trail goes STEEP downhill. Enjoy the skydive. :)]
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+{Cube;1003.551,428.88,1270.735;0,131.238,0;191.866,1,34.585}
+{Cube;861.401,538.846,1652.833;0,93.568,0;191.866,1,34.585}
+{Cube;1092.944,434.737,1483.611;0,263.213,0;17.777,1,1}
+{Cube;1102.169,434.737,1477.771;0,338.332,0;17.777,1,1}
+{Cube;1106.595,434.737,1496.068;0,300.773,0;49.587,1,1}
+{JumpPoint;901.926,540.948,1481.427;0;56.669,56.669,56.669;JumpTime:0;JumpRandMin:7000;JumpRandMax:100000}
+{Base;888.708,54.503,579.096;0;1}

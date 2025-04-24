@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:200;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Super Cheese's Cheese Islands!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0,0,0.03137255]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0,0,0,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;94.149,1437.769,130.955;0,33.499,0;1}

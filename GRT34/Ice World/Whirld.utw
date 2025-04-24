@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[rndFogColor:0.4745098,0.5294118,0.6117647]
+[rndFogDensity:0.0003]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;775.542,269.989,2134.36;0,79.432,0;1}
+{Cube;3124.205,13.23,2406.765;25.556,0,0;18.842,2.339,23.336}

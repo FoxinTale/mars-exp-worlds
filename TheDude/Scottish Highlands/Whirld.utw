@@ -1,0 +1,13 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Blue Skybox]
+[message:Welcome to TheDude's Scottish Highlands!]
+[rndFogColor:0,0.03416901,0.1333333]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.7607843,0.7607843,0.7607843,1]
+[rndHaloStrength:1]
+[rndFlareStrength:1]
+
+{Sea;0;0;1;Mode:Tropic}
+{Base;-678.554,30.237,-524.9;0,27.449,0;1}
+{Floor;0,-25.1,0;0;1;Texture:#SeaFloor}

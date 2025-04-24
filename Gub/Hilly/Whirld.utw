@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:1;camo:0;wvis:4500;lsrh:1;lspd:80;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Hilly! Try dogfighting, or switch to a jet and zoom around. Created by Gub.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0005]
+[rndAmbientLight:0.1377551,0.1377551,0.1377551,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;772.106,676.127,-978.189;0,33.499,0;1}

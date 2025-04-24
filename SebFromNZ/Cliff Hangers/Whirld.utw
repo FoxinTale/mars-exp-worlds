@@ -1,0 +1,17 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=CliffHangers]
+[ss]
+[rndSkybox: Sunset]
+[marsxplr:wvis:7500;]
+[message:Welcome to Seb's Cliff Hangers! Created by SebfromNZ and exported by Achilles. Enjoy!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.6632653,0.6456679,0.5725066]
+[rndFogDensity:0.00025]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{JumpPoint;2000,0,2000;0;15,15,15;JumpTime:1;JumpRandMin:70;JumpRandMax:100}
+{JumpPoint;2000,0,2000;0;15,15,15;JumpTime:1;JumpRandMin:70;JumpRandMax:100}
+{Sea;2000,30,2000;0;6,6,6;Mode:Tropic}
+{Base;3046.702,51.85,3286.584;0,293.964,0;1}

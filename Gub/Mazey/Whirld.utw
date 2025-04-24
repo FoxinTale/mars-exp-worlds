@@ -1,0 +1,9 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox: Low Hanging Dream]
+[marsxplr:mmap:0;camo:1;wvis:3500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to Mazey! This world was created by Gub to be a Capture the Flag world. Try exploring, or turn on laser respawn and play tag.]
+[floor:0]
+[nofloor:1]
+
+{Base;1823.825,857.285,2349.52;0,33.499,0;1}

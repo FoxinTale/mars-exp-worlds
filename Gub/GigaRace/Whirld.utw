@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[marsxplr:mmap:0;camo:0;wvis:5000;lsrh:1;lspd:80;lgvt:0.;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Say hello to the biggest race ever made for Syn3h.  Race to the end of to one of the checkpoints against friends. Have fun! ]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.01306431,0,0.9568627]
+[rndFogDensity:0.0005]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-1115.346,9237.111,-996.33;0,33.499,0;1}

@@ -1,0 +1,8 @@
+[marsxplr:lasr:1;lsrh:0;lsro:0;mmap:1;cam:0;rorb:0.001;xspd:7.291016;xagt:7;xbnc:0.5;grave:9.81;wives:5000;flog:0.005;last:-300;lisped:180;lgvt:0;loco:0;bonfire:1;botdrive:1;bugged:1;bugflsl:0;bugflpw:0;bugged:1;bugspn:1;bugfldr:300;bugflag:1;bugcg:-0.4;bugpow:1;bugspd:30;bugtr:1;bugsl:50;bugsh:70;bugfp:2;bugll:0;tnken:1;tnkpow:2000;tnkgrp:0.1;tnkspd:25;tnkcg:-0.2;tnkfp:3;tnkll:0;hvren:1;hvrhe:15;hvrhv:100;hvrrp:2.5;hvrth:220;hvrfp:2;hvrll:0;jeten:1;jethd:0.01;jetd:0.001;jets:20;jetl:0.5;jetss:20;jetfp:2;jetll:0.5;netph:0;netin:0;][message:Welcome! Say "x" to use the Xorb. Please bare in mind that speeding through this track will result in a fall.]
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+{Cube;1061.342,-290.453,1111.057;0,52.415,0;6.407,1,1.0}
+{Cube;1062.692,-290.453,1113.357;0,354.307,0;6.407,1,1}
+{Cube;1065.463,-290.453,1110.458;0,23.435,0;12.892,1,1}
+{Base;1033.067,-289.512,1125.267;0,73.51,0;1}

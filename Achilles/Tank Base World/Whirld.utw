@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[rndFogColor:0.2090639,0,0]
+[rndFogDensity:0.0015]
+[rndAmbientLight:1,0.879118,0.8791638,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Floor;0;0;1;Texture:#Dirt}
+{Base;64.704,5.939,127.108;0,91.49,0;1}

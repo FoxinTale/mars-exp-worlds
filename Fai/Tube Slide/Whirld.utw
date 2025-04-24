@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:0;camo:1;wvis:3500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to Fai's Tube Slide and Skatepark. Enjoy yourself!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;129.135,133.387,227.151;0,33.499,0;1}

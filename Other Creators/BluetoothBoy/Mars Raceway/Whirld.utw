@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:1;camo:0;wvis:10000;lsrh:1;lspd:80;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Mars Raceway! Designed by -BluetoothBoy-.]
+[floor:0]
+[nofloor:0]
+
+{Base;756.812,2.512,555.336;0;1}
+{Cube;980.336,-0.282,1761.75;0;9.607,1,10.679}
+{Cube;1638.067,-0.432,1789.48;0;9.607,1,10.679}

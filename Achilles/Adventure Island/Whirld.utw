@@ -1,0 +1,15 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=Island]
+[ss]
+[rndSkybox:Skybox]
+[Message:Welcome to Seb's Sky King!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7517031,0.8474259,0.9568627]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.1960784,0.1960784,0.1960784,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;646.19,50,-668.227;0,180,0;1}
+{Sea;0;0;1;Mode:Tropic}
+{Floor;0,-5,0;0;1;Texture:#water1}

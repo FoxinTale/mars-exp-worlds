@@ -1,0 +1,13 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:BlueSky]
+[Message:Welcome to Seb's Sky King!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.8,0.8,0.8]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.9153846,0.9153846,0.9153846,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-736.098,3.94,-396.383;0,91.49,0;1}

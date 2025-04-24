@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:MoonShine]
+[marsxplr:mmap:1;camo:0;wvis:10000;lsrh:1;lspd:80;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to the Space Race! Climb aboard the Space Cruiser and ride it down to the race track. Designed by airboy1999 and BluetoothBoy with ship models by Seb.]
+[nofloor:0]
+[floor:0]
+
+{Cube;44.826,73.427,-493.641;328.742,33.182,0;103.827,1,91.315}
+{Cube;79.539,97,-440.558;0,33.182,0;103.827,1,49.392}
+{Cube;903.676,42.157,-801.885;23.303,0,0;72.237,1,123.725}

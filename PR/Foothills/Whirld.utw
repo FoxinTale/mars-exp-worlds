@@ -1,0 +1,15 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=Foothills]
+[ss]
+[rndSkybox:Space]
+[marsxplr:wvis:6500;netm:0;]
+[message:Welcome to PR's Foothills! Designed and created by PR; exported by Achilles.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.2090639,0,0]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.4945652,0.4945652,0.4945652,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-333.467,118.106,37.216;45,345,0;1}
+{Sea;0;0;2,1,2;Mode:Lava}

@@ -1,0 +1,14 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=CityofDreams]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:0;wvis:300;netm:0;netph:2;]
+[message:Welcome to The City of Dreams. Created and designed by Achilles. Tip: Press 0 to enter full-screen mode. Full-screen helps reduce the lagginess.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.00065]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-18.531,-72.245,-29.726;0,90,0;1}

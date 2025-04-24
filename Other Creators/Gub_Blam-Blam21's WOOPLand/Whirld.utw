@@ -1,0 +1,16 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=WoopLand]
+[ss]
+[rndSkybox:Space]
+[marsxplr:wvis:7000;]
+[message:Welcome to Ultra WOOP Land! You can find many different interesting things, in this world of wonders. Created by Gub and Blam-Blam21 and exported by Achilles. Have a blast playing!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.8901961,0.2705882,0.2156863]
+[rndFogDensity:7.5E-05]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Sea;6000,66.232,6000;0;3.5,1,3.5;Mode:Tropic}
+{Base;5471.979,426.936,3703.904;0,33.499,0;1}
+{Floor;6000,-2.5,0;0;1}

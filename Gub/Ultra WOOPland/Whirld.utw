@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:0;camo:1;wvis:3500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to this world of wonders! Explore and have fun in this great expanse! Created by Gub with additions from Blam-Blam21.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.9568627,0.5055872,0.3105868]
+[rndFogDensity:0.0005]
+[rndAmbientLight:0,0.4945652,0.0577873,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-601.001,379.866,-1909.987;0,33.499,0;1}

@@ -1,0 +1,14 @@
+[ab:MarsAssets.unity3d]
+[ss]
+[rndSkybox:Space]
+[rndFogColor:0.2090639,0,0]
+[rndFogDensity:0.0015]
+[rndAmbientLight:1,0.879118,0.8791638,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Floor;0,-55.5,0;0;1;Texture:#SeaFloor}
+{JumpPoint;-111.944,0,-96;0;15,15,15;JumpTime:1;JumpRandMin:30;JumpRandMax:60}
+{JumpPoint;-20.44,0,-98.2;0;15,15,15;JumpTime:1;JumpRandMin:30;JumpRandMax:60}
+{Base;-63.933,15,-96.683;0,91.49,0;1}
+{Sea;0;0;1;Mode:Lava}

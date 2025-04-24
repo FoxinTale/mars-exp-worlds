@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:1;camo:0;rorb:0.3;xspd:10;xagt:2;xbnc:0.3;wvis:10000;lsrh:1;lspd:80;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to BluetoothBoy's Xorb Race! Type "x" into the chat box to activate your Xorb.]
+
+{Cube;-188.499,124.389,-134.741;44.96,258.655,254.149;50,1,50}
+{Cube;-337.816,70.943,-111.536;0,0,22.182;220.299,1,50}
+{Cube;-211.2,112.498,-111.536;0;50,1,50}
+{Base;-209.764,122.588,-111.466;0,90,0;1}
+{Floor;0,31.516,0;0;1}

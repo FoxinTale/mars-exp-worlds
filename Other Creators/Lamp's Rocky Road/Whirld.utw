@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox: Blue sky]
+[marsxplr:mmap:1;camo:0;wvis:8000;lsrh:0;lspd:200;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Rocky Road! This is a very bumpy world made by Lamp!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.6926082,0.7597638,1]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;871.872,605.54,964.868;0,33.499,0;1}

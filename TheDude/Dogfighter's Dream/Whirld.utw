@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Starry Sky]
+[marsxplr:wvis:6200;lspd:247;bugfldr:437;bugflpw:1;]
+[message:Welcome to TheDude's Dogfighter's Dream World!]
+[rndFogColor:0.07896963,0.1681609,0.254902]
+[rndFogDensity:0.0005]
+[rndAmbientLight:0.2392157,0.2392157,0.2392157,1]
+[rndHaloStrength:1]
+[rndFlareStrength:1]
+
+{Sea;0;0;1;Mode:Tropic}
+{Base;702.718,241.879,-483.065;0,261.8,0;1}
+{Floor;0,-15.1,0;0;1;Texture:#Waterfallback}

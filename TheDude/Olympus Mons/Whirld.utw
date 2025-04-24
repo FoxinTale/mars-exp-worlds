@@ -1,0 +1,12 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Solar Sky]
+[Message:Welcome to The Dude's Olympus Mons!]
+[marsxplr:wvis:6200;lspd:247;bugfldr:437;bugflpw:1;]
+[rndFogColor:0.1921569,0,0]
+[rndFogDensity:0.0005]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1724.41,467.98,1947.944;0,200.555,0;1}

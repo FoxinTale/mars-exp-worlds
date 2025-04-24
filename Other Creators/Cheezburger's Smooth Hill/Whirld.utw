@@ -1,0 +1,13 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=SmoothHill]
+[ss]
+[rndSkybox:Space]
+[Message:Welcome to Seb's Sky King!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.02307062,0,0.09411765]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.1960784,0.1960784,0.1960784,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;490.105,8.563,651.475;0,180,0;1}

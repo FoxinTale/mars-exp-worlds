@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:0;wvis:6500;netm:0;netph:2;]
+[message:Welcome to App's Funplosive Building. Exported by Achilles. Music: "Mistake the Getaway" by Kevin MacLeod. Enjoy!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.3742638,0.4239131,0.4086584]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2653061,0.2653061,0.2653061,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-63.933,-39.069,-96.683;0,91.49,0;1}

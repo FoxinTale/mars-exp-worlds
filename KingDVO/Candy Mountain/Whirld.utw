@@ -1,0 +1,12 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[Message:Welcome to King Dvo's Candy Mountain!]
+[rndFogColor:0.02307062,0,0.09411765]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.1960784,0.1960784,0.1960784,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;501.867,395.971,701.915;0,180.0,0;1}
+{JumpPoint;-42.622,110.26,236.526;0;5,5,5}

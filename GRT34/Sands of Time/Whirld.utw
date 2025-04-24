@@ -1,0 +1,16 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Bluesky]
+[marsxplr:mmap:0;camo:1;wvis:390500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to GTR34's Sands of Time!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7846154,0.7238262,0.5733728]
+[rndFogDensity:1E-05]
+[rndAmbientLight:1,1,1,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Floor;0,-1090.668,0;0;1;Texture:#SeaFloor}
+{Base;22088.67,5816.305,8412.734;0,91.49,0;1}
+{Sea;14206,2540.885,11887.68;0;13.609,13.609,13.609;Mode:Lava}

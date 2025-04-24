@@ -1,0 +1,13 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:0;camo:1;wvis:2500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to Aubrey's Sky Bridge! Based upon A*A Bridge by Teppic]
+[floor:0]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.003]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;0;0;1}

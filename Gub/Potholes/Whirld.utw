@@ -1,0 +1,9 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[marsxplr:mmap:0;camo:1;wvis:3500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:Welcome to Potholes! This world was created by Gub. Have fun!]
+[floor:0]
+[nofloor:1]
+
+{Base;133.832,47.913,254.398;0,33.499,0;1}

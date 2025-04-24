@@ -1,0 +1,15 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=KingIsland]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:]
+[message:Welcome to King Dvo's Island! This map was exported by Achilles.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0003]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1273.594,148.914,-3511.442;0,33.499,0;1}
+{Sea;251.581,33.226,-64.213;0;5,1,5;Mode:Tropic}

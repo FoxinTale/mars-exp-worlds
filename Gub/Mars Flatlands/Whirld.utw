@@ -1,0 +1,10 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Mars]
+[rndFogColor:0.1887755,0,0]
+[rndFogDensity:0.0003]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;4646.472,139,2794.064;0,33.499,0;1}

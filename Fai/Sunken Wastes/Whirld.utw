@@ -1,0 +1,7 @@
+[ab:Assets.unity3d]
+[ss]
+[message:Welcome to Fai's Sunken Wastes!]
+
+{Base;51.636,116.086,-270.895;0;1}
+{Sea;0;0;1;Mode:Lava}
+{Floor;0,-10.5,0;0;1;Texture:#SeaFloor}

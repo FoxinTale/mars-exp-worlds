@@ -1,0 +1,11 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Mars]
+[Message:Welcome to Eric's Capture The Flag World!]
+[rndFogColor:0.4862745,0.6588236,0.7882353]
+[rndFogDensity:0.001]
+[rndAmbientLight:1,0.879118,0.8791638,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1883.145,13.712,2140.254;0,15.912,0;1}

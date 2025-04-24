@@ -1,0 +1,11 @@
+[ab:MarsAssets.unity3d]
+[ss]
+[rndSkybox:Space]
+[rndFogColor:0.2090639,0,0]
+[rndFogDensity:0.001]
+[rndAmbientLight:1,0.879118,0.8791638,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Sea;0;0;1;Mode:Lava}
+{Base;7.843,7.822,-4.248;0,201.225,0;1}

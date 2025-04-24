@@ -1,0 +1,10 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[Message:Welcome to Achilles' Chess Board]
+[floor:0]
+[nofloor:1]
+
+{Floor;0,-7,0;0;1;Texture:#water1}
+{Base;-0.061,12.216,-2.215;0,180,0;1}
+{Sea;0,-5,0;0;1;Mode:Tropic}

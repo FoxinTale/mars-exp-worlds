@@ -1,0 +1,15 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=FloatingIslands]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:wvis:6441;]
+[message:Welcome to LittleDoug's Floating Islands! Exported by Achilles.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0001]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1110.377,31.199,480.84;0;1}
+{Sea;1013.053,19.328,919.801;0;1;Mode:Tropic}

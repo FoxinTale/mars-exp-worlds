@@ -1,0 +1,14 @@
+[ab:http://bl4ckh4t.site90.net/whirld.php?fname=ShipArmada]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:0;wvis:10000;]
+[message:Welcome to the Vengance Armada - the largest armada of ships ever put into Mars! Designed and created by Achilles.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0001]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;23878.87,18216.18,18532.45;0;1}

@@ -1,0 +1,9 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:1;camo:0;wvis:3500;lsrh:1;lspd:83;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Tubees! Drive down one of the 5 tubes available, but be careful, they are tricky! Created by Gub.]
+[floor:0]
+[nofloor:1]
+
+{Base;464.926,297.651,515.474;0,33.499,0;1}
