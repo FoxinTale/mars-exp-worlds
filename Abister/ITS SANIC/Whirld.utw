@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:0;camo:1;wvis:3500;lsrh:1;lspd:80;lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:OMG ITS SANIC GOTTA GO FAST UR 2 SLOW]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.1294118,0.6941177,0.3019608]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1370.249,7.221,1367.408;0,33.499,0;1}

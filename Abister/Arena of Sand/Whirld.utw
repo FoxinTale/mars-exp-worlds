@@ -1,0 +1,16 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:tnkpow:3500;tnkgrp:0.2;tnkspd:24.51613;tnkcg:-1.4;tnkfp:3;tnkll:0;bugspd:15;bugfldr:10;grav:18.81;mmap:1;camo:0;wvis:9700;lsrh:0;lspd:500;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:You're awesome! Welcome to Abister's Arena of Sand!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.08235294,0.1411765,0.2431373]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1111.983,-108.859,1156.781;0,33.499,0;1}
+{Floor;1000,-342.278,1000;0;10,1,10;Texture:#Mimas-Sand2}
+{Cube;1965.073,-301.499,848.661;0;1}

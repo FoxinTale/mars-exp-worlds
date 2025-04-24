@@ -1,0 +1,15 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:180;lgvt:0.;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Skaginn! ]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;2381.916,57.63,2666.115;0,33.499,0;1}
+{Sea;2000,36,2000;0;4,0,4;Mode:Tropic}

@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:0;camo:1;wvis:9700;lsrh:0;lspd:500;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:You're super!! Welcome to Abipan's Timeworn Canyon!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.8941177,0.9019608,0.9058824]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1679.542,38.461,748.862;0;1}

@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:bugflpw:0mmap:0;camo:0;wvis:9700;lsrh:0;lspd:100;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:You're amazing! Welcome to The Cavern, created by Abister.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.1769231,0.1516232,0.1306509]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-156.99,22.466,615.319;0,33.499,0;1}

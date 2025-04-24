@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Space]
+[marsxplr:wvis:4200;]
+[message:Welcome to Abister's Asteroid Cluster! Created by Abister and exported by Achilles.]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0,0,0]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;-11.739,81.808,-204.237;0;1}

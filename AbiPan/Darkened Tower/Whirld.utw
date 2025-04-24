@@ -1,0 +1,15 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Entropic]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:800;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Darkened Tower! A production by AbiPan!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.2352941,0.1960784,0.1686275]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Sea;2000,10,2000;0;100,1,100;Mode:Tropic}
+{Base;2126.177,19.449,2106.99;0,33.499,0;1}

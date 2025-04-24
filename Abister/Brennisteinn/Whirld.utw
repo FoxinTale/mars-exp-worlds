@@ -1,0 +1,13 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[Message:Brennisteinn]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.1803922,0.1764706,0.1803922]
+[rndFogDensity:0.001]
+[rndAmbientLight:0.2284812,0.2461538,0,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;425.083,25.747,244.796;0,180,0;1}

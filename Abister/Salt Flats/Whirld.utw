@@ -1,0 +1,16 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:180;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1]
+[message:You're amazing! Welcome to Abister's Not So Flat Salt Flats!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.854902,0.772549,0.5960785]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.7843137,0.7019608,0.654902,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Floor;1000,9,1000;0;10,1,10;Texture:#sand}
+{Floor;1000,10,1000;0;1;Texture:#sand}
+{Base;1000,24.651,1000;0,33.499,0;1}

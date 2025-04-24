@@ -1,0 +1,14 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox: Sunset]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:160;lgvt:0.;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Abister's Oasis! ]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;450.826,19.173,767;0,37.323,0;1}

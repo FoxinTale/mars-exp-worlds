@@ -1,0 +1,16 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:180;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:You're awesome! Welcome to Abister's Lonely Island]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;963.407,29.536,1093.248;0,33.499,0;1}
+{Floor;1000,0,1000;0;10,1,10;Texture:#Sand}
+{JumpPoint;1260,0,853.52;0;100,100,100;JumpTime:1;JumpRandMin:70;JumpRandMax:100}

@@ -1,0 +1,15 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:160;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welcome to Abister's Stars on Still Waters!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7333333,0.8235294,0.9568627]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;3315.142,152.26,2821;0,33.499,0;1}
+{Sea;3000,88.097,3000;0;4,500,4;Mode:Tropic}

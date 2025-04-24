@@ -1,0 +1,15 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:Skybox]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:180;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1lgvt:0.33;bugen:1;tnken:0;hvren:0;jeten:0;]
+[message:You're  Awesome! Welcome to Abister;s Ocean!]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.07450981,0.1764706,0.3764706]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.07450981,0.1764706,0.3764706,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Floor;1000,-0.5,1000;0;10,1,10;Texture:#Coral3}
+{Base;1000,15.803,959.075;0,33.499,0;1}

@@ -1,0 +1,17 @@
+[ab:Assets.unity3d]
+[ss]
+[rndSkybox:New Material]
+[marsxplr:mmap:1;camo:0;wvis:9700;lsrh:0;lspd:200;lgvt:0;bugen:1;tnken:1;hvren:1;jeten:1;]
+[message:Welceom to Abister's Ice Breaker! ]
+[floor:0]
+[nofloor:1]
+[rndFogColor:0.7843137,0.7843137,0.7843137]
+[rndFogDensity:0.0015]
+[rndAmbientLight:0.2,0.2,0.2,1]
+[rndHaloStrength:0.5]
+[rndFlareStrength:1]
+
+{Base;1083.153,49.584,1095.708;0,33.499,0;1}
+{Sea;1000,30,1000;0;100,1,100;Mode:Tropic}
+{Cube;1000,4000,1000;0;34.09,1,35.54}
+{Floor;1000,3.055,1000;0;100,0,100;Texture:#snow01}
